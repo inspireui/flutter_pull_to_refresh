@@ -203,16 +203,16 @@ attributes that are not empty.
 
 | refresh style |   |pull up load style| |
 |:---:|:---:|:---:|:---:|
-| RefreshStyle.Follow <br>![Follow](example/images/refreshstyle1.gif)|RefreshStyle.UnFollow <br> ![不跟随](example/images/refreshstyle2.gif)| LoadStyle.ShowAlways <br>  ![永远显示](example/images/loadstyle1.gif) | LoadStyle.HideAlways<br> ![永远隐藏](example/images/loadstyle2.gif)|
-| RefreshStyle.Behind <br> ![背部](example/images/refreshstyle3.gif)| RefreshStyle.Front <br> ![前面悬浮](example/images/refreshstyle4.gif)| LoadStyle.ShowWhenLoading<br>  ![当加载中才显示,其它隐藏](example/images/loadstyle3.gif) | |
+| RefreshStyle.Follow <br>![Follow](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/refreshstyle1.gif)|RefreshStyle.UnFollow <br> ![不跟随](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/refreshstyle2.gif)| LoadStyle.ShowAlways <br>  ![永远显示](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/loadstyle1.gif) | LoadStyle.HideAlways<br> ![永远隐藏](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/loadstyle2.gif)|
+| RefreshStyle.Behind <br> ![背部](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/refreshstyle3.gif)| RefreshStyle.Front <br> ![前面悬浮](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/refreshstyle4.gif)| LoadStyle.ShowWhenLoading<br>  ![当加载中才显示,其它隐藏](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/loadstyle3.gif) | |
 
 |Style| [ClassicIndicator](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/classic_indicator.dart) | [WaterDropHeader](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/waterdrop_header.dart) | [MaterialClassicHeader](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/material_indicator.dart) |
 |:---:|:---:|:---:|:---:|
-|| ![](example/images/classical_follow.gif) | ![](example/images/warterdrop.gif) | ![](example/images/material_classic.gif) |
+|| ![](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/classical_follow.gif) | ![](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/warterdrop.gif) | ![](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/material_classic.gif) |
 
-|Style|  [WaterDropMaterialHeader](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/material_indicator.dart) | [Shimmer Indicator](example/lib/ui/example/customindicator/shimmer_indicator.dart) |[Bezier+Circle](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/bezier_indicator.dart) |
+|Style|  [WaterDropMaterialHeader](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/material_indicator.dart) | [Shimmer Indicator](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/lib/ui/https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/customindicator/shimmer_indicator.dart) |[Bezier+Circle](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/bezier_indicator.dart) |
 |:---:|:---:|:---:|:---:|
-||  ![](example/images/material_waterdrop.gif) |![](example/images/shimmerindicator.gif) | ![](example/images/bezier.gif) |
+||  ![](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/material_waterdrop.gif) |![](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/shimmerindicator.gif) | ![](https://github.com/peng8350/flutter_pulltorefresh/blob/master/example/images/bezier.gif) |
 
 
 <a name="child"></a>
