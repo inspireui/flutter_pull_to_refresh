@@ -4,7 +4,7 @@
  * Time: 2019/5/19 下午9:23
  */
 
-import 'package:flutter/material.dart'
+import 'package:material_ui/material_ui.dart'
     hide RefreshIndicator, RefreshIndicatorState;
 
 import '../internals/indicator_wrap.dart';

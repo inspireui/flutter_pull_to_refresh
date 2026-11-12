@@ -6,7 +6,7 @@
 
 import 'dart:math' as math;
 
-import 'package:flutter/material.dart'
+import 'package:material_ui/material_ui.dart'
     hide RefreshIndicator, RefreshIndicatorState;
 import 'package:flutter/physics.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
